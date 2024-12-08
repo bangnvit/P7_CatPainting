@@ -1,0 +1,1 @@
+**Cat Painting** - Intermediate CSS (pseudo-classes, pseudo-elements, variables).
